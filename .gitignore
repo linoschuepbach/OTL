@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.png
+.gitignore
+.idea/workspace.xml
+/data/*

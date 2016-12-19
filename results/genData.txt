@@ -1,0 +1,16 @@
+Dataset,Generated Data Grader 1,Generated Data Grader2
+cirrus_1,23,24
+cirrus_2,25,27
+cirrus_3,139,118
+cirrus_4,10,13
+nidek_1,53,51
+nidek_2,41,42
+nidek_3,65,65
+spectralis_1,19,19
+spectralis_2,7,9
+spectralis_3,15,12
+spectralis_4,12,12
+topcon_1,66,67
+topcon_2,75,76
+topcon_3,61,57
+topcon_4,29,29
